@@ -1,0 +1,5 @@
+client_name: Nikolay Borisov
+cluster_stage: prod
+id: 6bcae7a1-a321-472f-80a1-a1b038891fc2
+k8s_namespace: prod
+topic_name: kafka
