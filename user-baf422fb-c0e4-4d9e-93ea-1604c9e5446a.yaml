@@ -1,0 +1,5 @@
+client_name: Petar Dimov
+cluster_stage: prod
+id: 0e1a1585-565d-492b-926c-0bc58c6d56da
+k8s_namespace: prod
+topic_name: kafka
